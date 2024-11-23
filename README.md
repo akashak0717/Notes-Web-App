@@ -1,4 +1,4 @@
-Notes Web Application
+## Notes Web Application
 
 A simple and interactive web app to create, edit, and delete notes, with data saved in local storage for persistence.
 
